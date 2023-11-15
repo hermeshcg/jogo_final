@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - EnemyBody
+  - Enemy Head
+  - Coin
   layers:
   - Default
   - TransparentFX

@@ -32,7 +32,7 @@ public class PlayerLife : MonoBehaviour
     { 
         Invoke(nameof(ReloadLevel), 1.3f);
         dead = true;
-        // deathSound.Play();
+        deathSound.Play();
     }
 
     void ReloadLevel()
