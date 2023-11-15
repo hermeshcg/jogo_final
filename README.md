@@ -1,4 +1,4 @@
-# JOGO DE CARRO
+# JOGO DE PLATAFORMA
 
 Projeto desenvolvido para a conclusão da matéria de Projeto e Desenvolvimento de Jogos do 8º semestre de Ciências da Computação da Uni-FACEF.
 
